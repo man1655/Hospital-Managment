@@ -1,0 +1,3 @@
+jdbc:mysql://localhost:3306/hospital_managment_system
+root
+man1655
